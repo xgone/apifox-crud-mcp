@@ -1,0 +1,13 @@
+{
+  "name": "apifox-crud-mcp",
+  "version": "1.0.0",
+  "description": "Apifox CRUD MCP server based on Apifox Open API",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
